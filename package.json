@@ -1,6 +1,6 @@
 {
   "name": "css-test",
-  "version": "2.0.0",
+  "version": "2.0.1-0",
   "description": "this is just a test of using some css libraries for js",
   "main": "index.js",
   "scripts": {
